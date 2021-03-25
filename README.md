@@ -20,7 +20,7 @@ This is a machine learning problem which predicts the loyalty score on the basis
 
 ## Motivation
 
-This case study is basically kaggle competition,The experience you get on Kaggle is invaluable in preparing you to understand what goes into finding feasible solutions for big data. Kaggle enables data scientists and other developers to engage in running machine learning contests, write and share code, and to host datasets.
+This case study is basically kaggle competition,The experience i got on Kaggle is invaluable in preparing you to understand what goes into finding feasible solutions for big data. 
 
 ## Technical Aspect
 This project is divided into two part:
