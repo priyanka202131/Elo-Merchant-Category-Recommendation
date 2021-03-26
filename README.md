@@ -13,6 +13,8 @@
   * [Team](#team)
   * [Credits](#credits)
 
+## Blog link
+https://priya-d00.medium.com/elo-merchant-recommendation-system-an-machine-learning-case-study-2ec8ca536a6c
 
 ## Overview
 
